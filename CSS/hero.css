@@ -1,0 +1,24 @@
+.hero {
+    background-color: #2E2F42;  
+}
+
+.hero-haeder {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    color: white;
+    text-align: center;
+}
+
+.hero-btn {
+    background-color: #4D5AE5;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 0,04em;
+    cursor: pointer;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #404bbf;
+}
