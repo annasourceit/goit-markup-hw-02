@@ -4,8 +4,8 @@ body {
     font-size: 16px;
     font-weight: 400;
     color: #434455;
-    line-height: 1,5;
-    letter-spacing: 0,02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     
 }
 a {
@@ -30,13 +30,13 @@ h2 {
     font-weight: 700;
     font-size: 36px;
     text-align: center;
-    line-height: 1,11;
+    line-height: 1.11;
 }
 
 h3 {
     font-weight: 500;
         font-size: 20px;
-        line-height: 1,2;
+        line-height: 1.2;
 }
 
  .logo {
@@ -44,7 +44,9 @@ h3 {
     font-size: 18px;
     line-height: 1.33;
     text-transform: uppercase;
-    letter-spacing: 0.03em;}
+    letter-spacing: 0.03em;
+    color: #2e2f42;
+}
 
  .logo span {
     color: #4D5AE5;
@@ -53,6 +55,6 @@ h3 {
  .title {
     font-size: 20px;
     font-weight: 500;
-    line-height: 1,2;
+    line-height: 1.2;
     color: #2E2F42;
  }

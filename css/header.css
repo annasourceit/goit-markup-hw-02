@@ -1,4 +1,5 @@
 
+ 
  .header-nav {
     font-weight: 500;
  }
@@ -7,10 +8,14 @@
     font-weight: 400;
  }
 
+ .header-nav-item {
+   color: #2e2f42;
+ }
  .header-nav-link:hover,
  .header-nav-link:focus,
  .header-address-link:hover,
  .header-address-link:focus {
- color: #404BBF;
+  color: #404BBF;
  }
 
+ 
